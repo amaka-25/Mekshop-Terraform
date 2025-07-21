@@ -6,3 +6,4 @@
     dynamodb_table = "terraform-locks"  # optional but recommended
   }
  }
+
